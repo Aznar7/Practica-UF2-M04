@@ -1,0 +1,29 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>International</title>
+        <link>https://www.economist.com/international/</link>
+        <description/>
+        <item>
+            <title>The world is bracing for Donald Trump's possible return</title>
+            <link>https://www.economist.com/international/2024/01/22/the-world-is-bracing-for-donald-trumps-possible-return</link>
+            <description>He could split countries into users, bruisers and losers</description>
+            <category>Politics</category>
+            <pubDate>2024-01-22</pubDate>
+            <creator>The Economist</creator>
+        </item>
+    </channel>
+
+    <channel>
+        <title>CF Fuenlabrada</title>
+        <link>https://www.marca.com</link>
+        <description><![CDATA[ marca.com ]]></description>
+        <item>
+            <title><![CDATA[ El exfutbolista de Primera Alfredo Sánchez asume el reto de intentar salvar al Fuenlabrada ]]></title>
+            <link>https://www.marca.com/futbol/fuenlabrada/2023/03/02/6400a59b22601de72c8b4590.html</link>
+            <description><![CDATA[ El ahora técnico se estrena como primer entrenador en el conjunto azulón, que ocupa puestos de descenso en Primera RFEF ]]></description>
+            <category>Fuenlabrada CF</category>
+            <pubDate>2023-03-02</pubDate>
+            <creator><![CDATA[ Alex Jiménez ]]></creator>
+        </item>
+    </channel>
+</rss>
