@@ -12,6 +12,57 @@
             <creator>The Economist</creator>
         </item>
     </channel>
+    
+    <channel>
+        <title>Industria y Turismo</title>
+        <link>https://www.lamoncloa.gob.es/</link>
+        <description/>
+        <item>
+            <title>El empleo turístico aumenta en noviembre un 5,1% respecto al mismo mes de 2022</title>
+            <link>https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria-turismo/paginas/2023/181223-empleo-turistico-noviembre.aspx</link>
+            <description>Los afiliados del sector turístico alcanzaron los 2,5 millones y supusieron el 12,5% del total de afiliados en la economía.</description>
+            <category>Industria y Turismo</category>
+            <pubDate>2023-12-18</pubDate>
+            <creator>La Moncloa</creator>
+        </item>
+    </channel>
+
+
+
+
+    <channel>
+        <title>pulse sports</title>
+        <link>https://www.pulsesports.co.ke/</link>
+        <description/>
+        <item>
+            <title>Samuel Chukwueze cameo in AC Milan's win against Lazio</title>
+            <link>https://www.pulsesports.co.ke/football/story/samuel-chukwueze-cameo-in-ac-milans-win-against-lazio-2023093018375755193</link>
+            <description>AC Milan secured a vital win against Lazio at the San Siro stadium in a push for the Serie A title.</description>
+            <category>Football</category>
+            <pubDate>2023-09-30</pubDate>
+            <creator>Stephen Oladehinde</creator>
+        </item>
+    </channel>
+
+
+
+
+
+
+
+    <channel>
+        <title>Agricultura, Pesca y Alimentación</title>
+        <link>https://www.lamoncloa.gob.es/</link>
+        <description/>
+        <item>
+            <title>El Gobierno publica la rebaja mínima del 25% en el IRPF para 800.000 agricultores y ganaderos</title>
+            <link>https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/agricultura/paginas/2023/250423-gobierno-rebaja-irpf-agricultores-ganaderos.aspx</link>
+            <description>Se trata de una reducción lineal que tiene en cuenta la sequía y las consecuencias económicas de la guerra en Ucrania. Además, la orden publicada recoge una rebaja de entre el 30% y el 50% para todos los sectores ganaderos y los de cereales, leguminosas, oleaginosas, olivar, albaricoque, melocotón, nectarina, almendra y castaña.</description>
+            <category>Agricultura, Pesca y Alimentación</category>
+            <pubDate>2023-04-25</pubDate>
+            <creator>La Moncloa</creator>
+        </item>
+    </channel>
 
     <channel>
         <title>CF Fuenlabrada</title>
